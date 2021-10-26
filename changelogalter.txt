@@ -1,0 +1,4 @@
+0.5.1
+Beta
+added command "changelog"
+changelog prints a list of changes
